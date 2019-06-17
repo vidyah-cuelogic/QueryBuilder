@@ -1,6 +1,6 @@
 // Try edit msg
  
-//import _ from 'lodash';
+//Add lodash';
 var AST = {
   "nodeType": "Main",
   "value": {
@@ -103,6 +103,7 @@ var AST = {
     "updateLockMode": null
   }
 }
+
 
 
 
